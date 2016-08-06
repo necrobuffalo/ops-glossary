@@ -3,22 +3,75 @@ A glossary of ops terms and acronyms.
 
 #### agile
 
+#### Ansible
+
+#### AWS
+Amazon Web Services
+
+#### btrfs
+
 #### Chef
+A configuration management system using Ruby.
+
+#### cloud
+
+#### configuration management
+
+#### container
+
+#### continuous deployment
+
+#### continuous integration
+
+#### CTF
+
+#### deployment
 
 #### devops
+Developers and operations working together. Sometimes a meaningless buzzword.
 
-#### grafana
+#### docker
 
-#### kanban
+#### DSL
+Domain-specific language - a language created for a specific application.
+
+#### filesystem
+
+#### GDB
+
+#### Grafana
 
 #### InfluxDB
 
+#### kanban
+
+#### kernel
+
+#### kibana
+
+#### logstash
+
+#### orchestration
+
+#### POSIX
+
+#### provisioning
+
 #### Puppet
+A configuration management system that uses its own DSL. Extendable using modules written in Ruby.
 
 #### Saltstack
+
+#### scrum
 
 #### SRE
 Site Reliability Engineering
 
 #### time-series database
 A database which stores values over time. InfluxDB is an example.
+
+#### userland
+
+#### valgrind
+
+#### version control
