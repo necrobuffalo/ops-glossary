@@ -1,24 +1,24 @@
 # ops-glossary
 A glossary of ops terms and acronyms.
 
-###### agile
+#### agile
 
-###### Chef
+#### Chef
 
-###### devops
+#### devops
 
-###### grafana
+#### grafana
 
-###### kanban
+#### kanban
 
-###### InfluxDB
+#### InfluxDB
 
-###### Puppet
+#### Puppet
 
-###### Saltstack
+#### Saltstack
 
-###### SRE
+#### SRE
 Site Reliability Engineering
 
-###### time-series database
+#### time-series database
 A database which stores values over time. InfluxDB is an example.
