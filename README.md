@@ -45,11 +45,15 @@ Domain-specific language - a language created for a specific application.
 
 #### kanban
 
+#### kerberos
+
 #### kernel
 
 #### kibana
 
 #### logstash
+
+#### OpenStack
 
 #### orchestration
 
@@ -67,8 +71,12 @@ A configuration management system that uses its own DSL. Extendable using module
 #### SRE
 Site Reliability Engineering
 
+#### strace
+
 #### time-series database
 A database which stores values over time. InfluxDB is an example.
+
+#### truss
 
 #### userland
 
