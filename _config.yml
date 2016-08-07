@@ -2,8 +2,8 @@
 title: ops-glossary
 tag_text: ops-glossary
 description: A glossary of ops terms and acronyms.
-url: "http://127.0.0.1:4000"
-baseurl: ""
+url: "http://necronomicon.rip"
+baseurl: "/ops-glossary"
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
