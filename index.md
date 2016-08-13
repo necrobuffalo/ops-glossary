@@ -5,8 +5,12 @@ layout: default
 
 #### Ansible
 
+#### Apache
+
 #### AWS
 Amazon Web Services
+
+#### BGP
 
 #### btrfs
 
@@ -18,6 +22,8 @@ Pools of self-serve, shared computing resources. Often used by marketers as a bu
 See the [NIST definition of cloud computing.](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 #### configuration management
+
+#### Consul
 
 #### container
 
@@ -32,16 +38,30 @@ See the [NIST definition of cloud computing.](http://nvlpubs.nist.gov/nistpubs/L
 #### devops
 Developers and operations working together. Sometimes a meaningless buzzword.
 
+#### dhclient
+
+#### DHCP
+
+#### dhcpcd
+
+#### distributed systems
+
 #### docker
 
 #### DSL
 Domain-specific language - a language created for a specific application.
 
+#### etcd
+
 #### filesystem
 
 #### GDB
 
+#### GlusterFS
+
 #### Grafana
+
+#### Heroku
 
 #### idempotency
 A mathematical/CS term which means an operation can be applied multiple times without changing the initial result. The principle on which configuration management systems generally operate.
@@ -56,11 +76,27 @@ A mathematical/CS term which means an operation can be applied multiple times wi
 
 #### kibana
 
+#### LDAP
+
 #### logstash
+
+#### memcached
+
+#### nginx
+
+#### Nomad
+
+#### ntp
+Network Time Protocol, used to keep clocks in sync.
 
 #### OpenStack
 
 #### orchestration
+
+#### OSPF
+
+#### Packer
+A tool for creating virtual machine images, built by Hashicorp.
 
 #### POSIX
 
@@ -69,9 +105,21 @@ A mathematical/CS term which means an operation can be applied multiple times wi
 #### Puppet
 A configuration management system that uses its own DSL. Extendable using modules written in Ruby.
 
+#### Redis
+
+#### rkt
+
 #### Saltstack
 
 #### scrum
+
+#### Serf
+
+#### service discovery
+
+#### SMTP
+
+#### SNMP
 
 #### SRE
 Site Reliability Engineering
@@ -80,6 +128,8 @@ Site Reliability Engineering
 
 #### swap
 
+#### Terraform
+
 #### time-series database
 A database which stores values over time. InfluxDB is an example.
 
@@ -87,7 +137,14 @@ A database which stores values over time. InfluxDB is an example.
 
 #### userland
 
+#### Vagrant
+
 #### valgrind
+
+#### Vault
 
 #### version control
 
+#### ZFS
+
+#### Zookeeper
