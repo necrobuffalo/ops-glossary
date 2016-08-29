@@ -76,6 +76,8 @@ A mathematical/CS term which means an operation can be applied multiple times wi
 
 #### kibana
 
+#### Kubernetes
+
 #### LDAP
 
 #### logstash
@@ -83,6 +85,7 @@ A mathematical/CS term which means an operation can be applied multiple times wi
 #### memcached
 
 #### nginx
+A webserver. Generally considered lighter weight than Apache. Often used as a reverse proxy.
 
 #### Nomad
 
@@ -107,6 +110,8 @@ A configuration management system that uses its own DSL. Extendable using module
 
 #### Redis
 
+#### reverse proxy
+
 #### rkt
 
 #### Saltstack
@@ -117,9 +122,12 @@ A configuration management system that uses its own DSL. Extendable using module
 
 #### service discovery
 
+#### silo
+
 #### SMTP
 
 #### SNMP
+Simple Network Management Protocol, used to collect information about networked devices.
 
 #### SRE
 Site Reliability Engineering
