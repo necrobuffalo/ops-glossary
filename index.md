@@ -27,6 +27,8 @@ See the [NIST definition of cloud computing.](http://nvlpubs.nist.gov/nistpubs/L
 
 #### container
 
+#### containerd
+
 #### continuous deployment
 
 #### continuous integration
@@ -55,6 +57,8 @@ Domain-specific language - a language created for a specific application.
 
 #### filesystem
 
+#### Ganeti
+
 #### GDB
 
 #### GlusterFS
@@ -68,6 +72,8 @@ A mathematical/CS term which means an operation can be applied multiple times wi
 
 #### InfluxDB
 
+#### init system
+
 #### kanban
 
 #### kerberos
@@ -78,9 +84,19 @@ A mathematical/CS term which means an operation can be applied multiple times wi
 
 #### Kubernetes
 
+#### KVM
+
 #### LDAP
 
+#### libvirt
+
 #### logstash
+
+#### LXC
+
+#### LXD
+
+#### machinectl
 
 #### memcached
 
@@ -92,7 +108,11 @@ A webserver. Generally considered lighter weight than Apache. Often used as a re
 #### ntp
 Network Time Protocol, used to keep clocks in sync.
 
+#### OpenRC
+
 #### OpenStack
+
+#### OpenVZ
 
 #### orchestration
 
@@ -108,11 +128,15 @@ A tool for creating virtual machine images, built by Hashicorp.
 #### Puppet
 A configuration management system that uses its own DSL. Extendable using modules written in Ruby.
 
+#### QEMU
+
 #### Redis
 
 #### reverse proxy
 
 #### rkt
+
+#### runC
 
 #### Saltstack
 
@@ -136,12 +160,20 @@ Site Reliability Engineering
 
 #### swap
 
+#### systemd
+
+#### systemd-nspawn
+
+#### sysvinit
+
 #### Terraform
 
 #### time-series database
 A database which stores values over time. InfluxDB is an example.
 
 #### truss
+
+#### Upstart
 
 #### userland
 
@@ -152,6 +184,8 @@ A database which stores values over time. InfluxDB is an example.
 #### Vault
 
 #### version control
+
+#### Xen
 
 #### ZFS
 
